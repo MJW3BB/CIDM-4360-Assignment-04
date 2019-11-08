@@ -32,13 +32,13 @@ namespace Assignment4
             }
 
             //Returns the item's ID
-            static void getItemID()
+            static void getItemID(int ID)
             {
 
             }
 
             //Displays the item info to console(id, desc, price, avlbl )
-            static void displayItem()
+            static void displayItem(string displayItem)
             {
 
             }
