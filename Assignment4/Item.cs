@@ -18,7 +18,7 @@ namespace Assignment4
             {
                 qty1 = 30;
                 qty2 = 10;
-                qty3 = 20; 
+                qty3 = 30; 
 
                 return qty1, qty2, qty3; 
             }
